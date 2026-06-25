@@ -1,4 +1,4 @@
-# AI Resume & Portfolio Builder
+# AI Resume Builder
 
 A Streamlit application that generates:
 
